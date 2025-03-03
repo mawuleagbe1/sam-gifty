@@ -1,0 +1,169 @@
+*{
+	margin:0;
+	list-style-type:none;
+	padding:0;
+	text-decoration:none;
+	font-family:sans-serif;
+}
+
+header{
+	min-height: 100vh;
+	width: 100%;
+	background-image: url(mon.jpg);
+	background-position: center;
+	background-size: cover;
+	position: relative;
+}
+
+nav{
+text-decoration: none;
+	text-align: center;
+	display: flex;
+	padding-top: 25px;
+
+}
+nav ul{
+	text-decoration: none;
+	text-align: center;
+	display: flex;
+	list-style: none;
+}
+
+
+
+nav ul li{
+	
+	margin-left: 45px;
+}
+nav ul li a{
+text-decoration: none;
+list-style: none;
+text-align: center;
+padding: 5px;
+display: flex;	
+justify-content: space-between;	
+color: white;
+	margin-right: 20px;
+	font-weight: bold;
+
+	
+}
+.logo{
+	margin-left: 25px;
+}
+
+
+.ctn{
+	padding: 8px 15px;
+	background-color: blueviolet;
+	border-radius: 20px;
+	color: whitesmoke;
+}
+.ctn:hover{
+background-color: chartreuse;
+	transition:0.5s;
+	color: cornflowerblue;	
+	
+}
+
+.ov{
+	color: blueviolet;
+	text-decoration: underline blueviolet;
+	font-weight: bold;
+	
+}
+
+
+button{
+	
+	background-color: transparent;
+	padding: 10px;
+	color: antiquewhite;
+	border-radius: 10px;
+	border-color: white;
+	border: 2px solid ;
+}
+
+
+.nav2{
+	margin-left: 95px;
+	color: white;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+h1{
+	font-size: 55px;
+margin-top: 95px;
+	
+}
+p{
+	margin-top: 45px;
+	
+}
+
+button:hover{
+	background:white;
+	transition:0.5s;
+	color: black;
+}
+
+
+footer{
+	height:200px;
+	width: 100%;
+}
+.footer{
+	height: 200px;
+	width: 100%;
+	background-color: brown;
+	margin-bottom: 300px;
+}
+.nav{
+	list-style: none;
+	margin-left: 100px;
+	color: black;
+	display: inline-flex;
+}
+.nav ul li a{
+	color: black;
+	font-weight: bold;
+}
+.ALL{
+	margin-left: 600PX;
+	margin-top: 50PX;
+	font-weight: bold;
+	color: white;
+}
+.Colorful{
+	color: chocolate;
+}
+.go{
+	margin-top:25px ;
+}
+
+.items{
+height: 350px;
+width: 300px;
+background-color: darkgreen;
+display: inline-flex;
+justify-content: space-between;
+margin-left: 60px;
+margin-bottom: 60px;
+text-align: center;
+align-items: center;
+
+}
+.items P{
+text-align: center;
+margin-left: 60PX;
+margin-bottom: 40PX;
+font-weight: bold;
+color: white;
+}
+.h1{
+	color: brown;
+	align-items: center;
+	margin-left: 250px;
+	margin-bottom: 50px;
+	
+}
