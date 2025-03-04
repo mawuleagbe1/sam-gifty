@@ -139,7 +139,10 @@ footer{
 	color: chocolate;
 }
 .go{
-	margin-top:25px ;
+	margin-top:25px;
+	margin-left: 25px;
+	font-weight: bold;
+	color: white;
 }
 
 .items{
