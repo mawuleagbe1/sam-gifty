@@ -53,6 +53,7 @@ color: white;
 	margin-top: 10px;
 	color: white;
 	font-weight: bold;
+	font-size: 35px;
 }
 
 p{
@@ -263,5 +264,7 @@ footer{
 	color: chocolate;
 }
 .go{
-	margin-top:25px ;
+	margin-top:25px;
+	margin-left: 25px;
+	font-weight: bold;
 }
